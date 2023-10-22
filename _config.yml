@@ -1,0 +1,12 @@
+# Site settings
+title: "Cesar Solís Díaz | CandidatoREUP #11"
+description: Startup and Business enthusiastic, Data Engineer y Estudiante de Economía
+baseurl: "" # the subpath of your site, e.g. /blog/
+
+# User settings
+username: Cesar Solís
+user_description:
+user_title: "Candidato REUP #11"
+email: ca.solisd@alum.up.edu.pe
+
+exclude: ['package.json', 'src' , 'node_modules']
